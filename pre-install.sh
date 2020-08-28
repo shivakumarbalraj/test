@@ -1,5 +1,10 @@
 #! /bin/bash
 
-df -h
-ls -l
 whoami
+echo "--------"
+pwd
+echo "--------"
+df -h
+echo "--------"
+ls -l
+echo "--------"
